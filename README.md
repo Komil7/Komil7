@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Komil
-- 👀 I’m interested in Programming 
-- 🌱 I’m currently learning Java
+- 👀 I’m interested in Programming and Cyber Security
+- 🌱 I’m currently learning Golang
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
